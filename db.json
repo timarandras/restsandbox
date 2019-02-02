@@ -1,26 +1,31 @@
 {
   "honeys": [
     {
+      "id": 1,
       "name": "Akác",
       "price": 2400,
       "orderable": true
     },
     {
+      "id": 2,
       "name": "Gesztenye",
       "price": 2500,
       "orderable": true
     },
     {
+      "id": 3,
       "name": "Vegyes virág",
       "price": 1600,
       "orderable": true
     },
     {
+      "id": 4,      
       "name": "Akác + Gyógy",
       "price": 2000,
       "orderable": true
     },    
     {
+      "id": 5,
       "name": "Méhpempő",
       "price": 3500,
       "orderable": false
